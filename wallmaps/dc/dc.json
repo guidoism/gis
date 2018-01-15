@@ -1,0 +1,6 @@
+{
+    "layers": {
+        "roads": { "src": "gis.osm_roads_free_1.shp", "attributes": { "name": "name" } },
+        "buildings": { "src": "gis.osm_buildings_a_free_1.shp" }
+    }
+}
